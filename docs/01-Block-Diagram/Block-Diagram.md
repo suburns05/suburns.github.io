@@ -6,6 +6,8 @@ tags:
 ---
 
 ## Overview
+My section is the Input/Output board, the bridge between our sensors and lights. Its intended to allow for user control and sensor input to determine what state the light should be. 
+
 This needs to be updated with a brief purpose for having the block diagram.
 Things to mention are:
 * power levels
