@@ -8,7 +8,7 @@ title: Component Selection
 1 MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
 
     ![](part1.png)
-
+s
     * $0.59/each
     * [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&gad_source=1&gad_campaignid=120565755&gbraid=0AAAAADrbLlgvmi-7nu49IK00wDfqUZ9nG&gclid=CjwKCAjwr8LHBhBKEiwAy47uUg2Khy4UAju_plOeBhHjGhTL9rCemC6lQ3zkZeHUy87t1d8vDi-Z9BoCKtUQAvD_BwE)
 
