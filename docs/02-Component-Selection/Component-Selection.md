@@ -122,7 +122,7 @@ title: Component Selection
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Cheap                                            | Tall componet    |
+    | Inexpensive                                            | Tall componet    |
     | Protectoin features (if over temps, short circuit)       |8 weeks shiping time|     
                   
 
