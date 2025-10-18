@@ -136,7 +136,7 @@ title: Component Selection
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
     | Automotive grade                                      |  Surface mount    |
-    | Low profile                              | Likely too high quality for the project |
+    | Low profile                              | Way to high quality for this projcet |
     
 **Choice:** Option 1: UA7905CKCS
 
