@@ -79,9 +79,9 @@ title: Component Selection
     | 100,000 cycle life                                 | Surface mounting |
                                                      |Very long shipping time|
 
-2. PCW1J-B24-BAB103L n
+2. PCW1J-B24-BAB103L 
 
-    ![](part2.3.png){style width:"100" height:"100;"}s
+    ![](part2.3.png){style width:"100" height:"100;"}
 
     * $5.92/each
     * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
@@ -95,3 +95,49 @@ title: Component Selection
 **Choice:** Option 2: P160KN2-0EC15B100K
 
 **Rationale:** It is the option I am most familiar with and I wouldn't have to wait for it to arrive. The pin difficulty can be manage through varius design choices and easily 3D printed parts. 
+
+
+
+**Voltage Regulator**
+
+3. UA7905CKCS
+
+    ![](part3.1.png){style width:"100" height:"100;"}
+
+    * $1.02/each
+    * [link to product](https://www.digikey.com/en/products/detail/texas-instruments/UA7905CKCS/660187)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Through Hole                              | Tall component |
+    | Good max voltage rating           | 6 weeks shiping time                                  |
+    | Aleady have on hand           |
+
+3. L7805CV
+
+    ![](part3.2.png){style width:"100" height:"100;"}
+
+    * $0.5/each
+    * [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Cheap                                            | Tall componet    |
+    | Protectoin features (if over temps, short circuit)       |8 weeks shiping time|     
+                  
+
+3. NCV7805BDTRKG
+
+    ![](part3.3.png){style width:"100" height:"100;"}
+
+    * $0.57/each
+    * [Link to product](https://www.digikey.com/en/products/detail/onsemi/NCV7805BDTRKG/1792758)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Automotive grade                                      |  Surface mount    |
+    | Low profile                              | Likely too high quality for the project |
+    
+**Choice:** Option 1: UA7905CKCS
+
+**Rationale:** It is the option I am most familiar with and I wouldn't have to wait for it to arrive. I have a lot of reasorces on how to build my own power supply with this exact part so it benefits me the most. While something more compact would be nice I think for ease of life and design this part will be just fine.
