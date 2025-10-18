@@ -766,96 +766,82 @@
   <h1>Component Selection</h1>
 
 <p><strong>Op Amps</strong></p>
-<ol>
-<li>
-<p>MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../part1.png" data-desc-position="bottom"><img alt="" src="../part1.png"></a></p>
-<ul>
-<li>$0.59/each</li>
-<li><a href="https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=120565755&amp;gbraid=0AAAAADrbLlgvmi-7nu49IK00wDfqUZ9nG&amp;gclid=CjwKCAjwr8LHBhBKEiwAy47uUg2Khy4UAju_plOeBhHjGhTL9rCemC6lQ3zkZeHUy87t1d8vDi-Z9BoCKtUQAvD_BwE">link to product</a></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Inexpensive</td>
-<td>likely way to many pins then needed</td>
-</tr>
-<tr>
-<td>Already have the part on hand</td>
-<td>takes up a significant amount of space</td>
-</tr>
-<tr>
-<td>Familiar with the part</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../part2.png" data-desc-position="bottom"><img alt="" src="../part2.png"></a></p>
-<ul>
-<li>$4.94/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940">Link to product</a></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Compact foot print</td>
-<td>More expensive</td>
-</tr>
-<tr>
-<td>Higher voltage rating</td>
-<td>Surface mounting</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>LM324N IC IC OPAMP GP 4 CIRCUIT 14DIP</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../part3.png" data-desc-position="bottom"><img alt="" src="../part3.png"></a></p>
-<ul>
-<li>$0.47/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940">Link to product</a></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Least expensive</td>
-<td>Notably higher minimum opperation voltage</td>
-</tr>
-<tr>
-<td>Higher voltage rating</td>
-<td>Higher Output Current channel</td>
-</tr>
-<tr>
-<td>smaller voltage offset</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</li>
-</ol>
-<p><strong>Choice:</strong> Option 1: CTX936TR-ND surface mount oscillator</p>
-<p><strong>Rationale:</strong> A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.</p>
+<p>1.1. MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP</p>
+<pre><code>![](part1.png)
+
+* $0.59/each
+* [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=120565755&amp;gbraid=0AAAAADrbLlgvmi-7nu49IK00wDfqUZ9nG&amp;gclid=CjwKCAjwr8LHBhBKEiwAy47uUg2Khy4UAju_plOeBhHjGhTL9rCemC6lQ3zkZeHUy87t1d8vDi-Z9BoCKtUQAvD_BwE)
+
+| Pros                                      | Cons                                                             |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| Inexpensive                               | likely way to many pins then needed |
+| Already have the part on hand             | takes up a significant amount of space                                        |
+| Familiar with the part |
+</code></pre>
+<p>1.2. LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP</p>
+<pre><code>![](part2.png)
+
+* $4.94/each
+* [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+
+| Pros                                                              | Cons                |
+| ----------------------------------------------------------------- | ------------------- |
+| Compact foot print                                             | More expensive      |
+| Higher voltage rating                                 | Surface mounting |
+| |                                                 |Unfamiliar interface |
+</code></pre>
+<p>1.3. LM324N IC OPAMP GP 4 CIRCUIT 14DIP</p>
+<pre><code>![](part3.png)
+
+* $0.47/each
+* [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+
+| Pros                                                              | Cons                |
+| ----------------------------------------------------------------- | ------------------- |
+| Least expensive                                          |  Notably higher minimum opperation voltage    |
+| Higher voltage rating                                 | Higher Output Current channel |
+| Smaller voltage offset                                 |
+</code></pre>
+<p><strong>Choice:</strong> Option 1: MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP</p>
+<p><strong>Rationale:</strong> It is the option I am most familiar with and I wouldn't have to wait to order it. It is more then capable for the task I need it for.</p>
+<p><strong>Potentiometer</strong></p>
+<p>2.1. P120PK-Y25BR10K</p>
+<pre><code>![](part2.1.png)
+
+* $1.42/each
+* [link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P120PK-Y25BR10K/5957454)
+
+| Pros                                      | Cons                                                             |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| Through Hole, snap in mounting                               | very long shipping time |
+| Similar to the part used in class             | Low resistance (10k Ohms)                                     |
+</code></pre>
+<p>2.2. P160KN2-0EC15B100K</p>
+<pre><code>![](part2.2.png)
+
+* $1.66/each
+* [Link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P160KN2-0EC15B100K/3587330)
+
+| Pros                                                              | Cons                |
+| ----------------------------------------------------------------- | ------------------- |
+| Already have it on hand                                            | Pins are horizontal     |
+| 100,000 cycle life                                 | Surface mounting |
+                                                 |Very long shipping time|
+</code></pre>
+<p>2.3. PCW1J-B24-BAB103L n</p>
+<pre><code>![](part2.3.png)
+
+* $5.92/each
+* [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+
+| Pros                                                              | Cons                |
+| ----------------------------------------------------------------- | ------------------- |
+| Panel Mount                                         |  Most expensive part    |
+| Low profile                              | Likely too high quality for the project |
+| Clean design                                |
+</code></pre>
+<p><strong>Choice:</strong> Option 2: P160KN2-0EC15B100K</p>
+<p><strong>Rationale:</strong> It is the option I am most familiar with and I wouldn't have to wait for it to arrive. The pin difficulty can be manage through varius design choices and easily 3D printed parts. </p>
 
 
 
