@@ -5,7 +5,7 @@ title: Component Selection
 
 **Op Amps**
 
-1.1. MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
+1.1 MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
 
     ![](part1.png)
 
@@ -18,7 +18,7 @@ title: Component Selection
     | Already have the part on hand             | takes up a significant amount of space                                        |
     | Familiar with the part |
 
-1.2. LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP
+1.2 LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP
 
     ![](part2.png)
 
@@ -31,7 +31,7 @@ title: Component Selection
     | Higher voltage rating                                 | Surface mounting |
     | |                                                 |Unfamiliar interface |
 
-1.3. LM324N IC OPAMP GP 4 CIRCUIT 14DIP
+1.3 LM324N IC OPAMP GP 4 CIRCUIT 14DIP
 
     ![](part3.png)
 
@@ -51,7 +51,7 @@ title: Component Selection
 
 **Potentiometer**
 
-2.1. P120PK-Y25BR10K
+2.1 P120PK-Y25BR10K
 
     ![](part2.1.png)
 
@@ -64,7 +64,7 @@ title: Component Selection
     | Similar to the part used in class             | Low resistance (10k Ohms)                                     |
     
 
-2.2. P160KN2-0EC15B100K
+2.2 P160KN2-0EC15B100K
 
     ![](part2.2.png)
 
@@ -77,7 +77,7 @@ title: Component Selection
     | 100,000 cycle life                                 | Surface mounting |
                                                      |Very long shipping time|
 
-2.3. PCW1J-B24-BAB103L n
+2.3 PCW1J-B24-BAB103L 
 
     ![](part2.3.png)
 
