@@ -7,7 +7,7 @@ title: Component Selection
 
 1. MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
 
-    ![](part1.png)
+    ![](part1.png){style width:"100" height:"100;"}
 
     * $0.59/each
     * [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&gad_source=1&gad_campaignid=120565755&gbraid=0AAAAADrbLlgvmi-7nu49IK00wDfqUZ9nG&gclid=CjwKCAjwr8LHBhBKEiwAy47uUg2Khy4UAju_plOeBhHjGhTL9rCemC6lQ3zkZeHUy87t1d8vDi-Z9BoCKtUQAvD_BwE)
@@ -47,6 +47,8 @@ title: Component Selection
 **Choice:** Option 1: MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
 
 **Rationale:** It is the option I am most familiar with and I wouldn't have to wait to order it. It is more then capable for the task I need it for.
+
+
 
 
 **Potentiometer**
