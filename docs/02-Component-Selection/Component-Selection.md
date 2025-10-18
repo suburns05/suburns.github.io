@@ -20,7 +20,7 @@ title: Component Selection
 
 1. LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP
 
-    ![](part2.png)
+    ![](part2.png){style width:"100" height:"100;"}
 
     * $4.94/each
     * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
@@ -33,7 +33,7 @@ title: Component Selection
 
 1. LM324N IC OPAMP GP 4 CIRCUIT 14DIP
 
-    ![](part3.png)
+    ![](part3.png){style width:"100" height:"100;"}
 
     * $0.47/each
     * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
@@ -55,7 +55,7 @@ title: Component Selection
 
 2. P120PK-Y25BR10K
 
-    ![](part2.1.png)
+    ![](part2.1.png){style width:"100" height:"100;"}
 
     * $1.42/each
     * [link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P120PK-Y25BR10K/5957454)
@@ -68,7 +68,7 @@ title: Component Selection
 
 2. P160KN2-0EC15B100K
 
-    ![](part2.2.png)
+    ![](part2.2.png){style width:"100" height:"100;"}
 
     * $1.66/each
     * [Link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P160KN2-0EC15B100K/3587330)
@@ -81,7 +81,7 @@ title: Component Selection
 
 2. PCW1J-B24-BAB103L n
 
-    ![](part2.3.png)
+    ![](part2.3.png){style width:"100" height:"100;"}s
 
     * $5.92/each
     * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
