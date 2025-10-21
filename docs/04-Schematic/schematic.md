@@ -4,9 +4,9 @@ title: Schematic
 
 ## Overview
 
-This schematic is designed top act as a hub for my team project. It collects the data from our sensor circuits, along with its input controlls, to send signals to the lighting circuit. It has 3 buttons for hands on control along with a potentiomitor to act as a brightness control for the light. 
+This schematic is designed to serve as the central hub for my team’s project. It gathers data from the sensor circuits, along with input controls, and sends the corresponding signals to the lighting circuit. The board includes three buttons for manual control and a potentiometer to adjust the light’s brightness.
 
-It is undecided if this board will have the master code to take the raw signal from the sensor boards or it would just read values from them. As seen on the board there are many points to test and measure the hardware incase of failure. In the extream sitiation where all control fails the senser board alone should provide enough "control" to make the light work as intended. 
+It has not yet been decided whether this board will run the master code to process raw signals from the sensor boards or simply read their values. As shown, there are multiple test points for measuring and troubleshooting the hardware in case of failure. In the unlikely event that all control systems fail, the sensor board alone should still provide enough functionality to operate the light as intended.
 
 
 ![schematic](image.png){style width:"350" height:"300;"}
