@@ -23,4 +23,4 @@ The potentiometer controlls the brightness of the light.
 
 ## Block Diagram 
 
-![Indivial Block diagram ](individual block diagram.drawio.png)
+![Indivial Block diagram ](individual block diagram.drawio (1).png)
