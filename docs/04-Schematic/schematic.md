@@ -9,7 +9,7 @@ This schematic is designed to serve as the central hub for my team’s project. 
 It has not yet been decided whether this board will run the master code to process raw signals from the sensor boards or simply read their values. As shown, there are multiple test points for measuring and troubleshooting the hardware in case of failure. In the unlikely event that all control systems fail, the sensor board alone should still provide enough functionality to operate the light as intended.
 
 
-![schematic](Schematic-SB.pdf){style width:"350" height:"300;"}
+![schematic](image.png){style width:"350" height:"300;"}
 **Figure 1:** Showing schematic.
 
 
