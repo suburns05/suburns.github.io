@@ -6,21 +6,19 @@ tags:
 ---
 
 ## Overview
-My section is the Input/Output board, the bridge between our sensors and lights. Its intended to allow for user control and sensor input to determine what state the light should be. 
+My section is the Input/Output board, the bridge between our sensors and lights. 
 
-Since my unit is the hub of our other units it has 3 team connetions. The "sensors" of my board are the buttons and the popotentiometer. These allow for fine user control compared to the actual sensor boards. The whole board should opperate on 5v & 1.5 Amps. 
+Since my unit is the hub of our other units it has 3 team connetions.The motor functions as my actuator, it will "scan" the room for sound and will send the light board the code to triger the light if it gets confirmation from both the sound and the night light board. The first two buttons are limits to the motors range of movement. For the sake of time and demonstration of the features of the board, the motor will not hold up the other boards and it will not hit the "limit switches". 
 
-Button 1-3 act like the quick controlls on a CD player:
+Button 1: Start
 
-Button 1: On/Off
-
-Button 2: Mode (White-Warm-Cool)
+Button 2: End
 
 Button 3: reset
 
-The potentiometer controlls the brightness of the light.
+The motor will pivot the sensors to cover a wider range
 
 
 ## Block Diagram 
 
-![Indivial Block diagram ](individual block diagram.pdf)
+![Indivial Block diagram ](individual.drawio.png)
