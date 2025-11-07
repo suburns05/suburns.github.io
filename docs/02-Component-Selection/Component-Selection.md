@@ -49,9 +49,56 @@ title: Component Selection
 **Rationale:** It is the option I am most familiar with and I wouldn't have to wait to order it. It is more then capable for the task I need it for.
 
 
+**Potentiometer** BAD!!!! will update later (Look at motor selection).
+
+2. FIT0483
+
+    ![](part4.1.png){style width:"100" height:"100;"}
+
+    * $11.9/each
+    * [link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0483/7087160)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Familar with motor type                               | very long shipping time |
+    | Have some on hand            | Low torque                                   |
+    
+
+2. PENDING......
+
+    ![](part2.2.png){style width:"100" height:"100;"}
+
+    * $1.66/each
+    * [Link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P160KN2-0EC15B100K/3587330)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Already have it on hand                                            | Pins are horizontal     |
+    | 100,000 cycle life                                 | Surface mounting |
+                                                     |Very long shipping time|
+
+2. PENDING...... 
+
+    ![](part2.3.png){style width:"100" height:"100;"}
+
+    * $5.92/each
+    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Panel Mount                                         |  Most expensive part    |
+    | Low profile                              | Likely too high quality for the project |
+    | Clean design                                | 
+
+**Choice:** Option 1: P160KN2-0EC15B100K
+
+**Rationale:** It was the first pick due to time constraints and having to fix this project. 
 
 
-**Potentiometer**
+
+
+
+**Potentiometer** BAD!!!! will update later (Look at motor selection).
 
 2. P120PK-Y25BR10K
 
