@@ -21,4 +21,4 @@ The motor will pivot the sensors to cover a wider range
 
 ## Block Diagram 
 
-![Indivial Block diagram ](individual.drawio.png)
+![Indivial Block diagram ](individualdiagram.drawio.png)
