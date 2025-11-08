@@ -13,4 +13,4 @@ This PCB desgin shows what the board will look like once its fabricated.
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](PCB Printout 1-1.pdf), and the Zip folder of the project [*here*](egr304-subsystem schematic design-sb.zip).
+The schematic as a PDF download is available [*here*](PCB Printout 1-1.pdf), and the Gerber Zip folder of the project [*here*](Sam Burns 205 Gerber.zip).
