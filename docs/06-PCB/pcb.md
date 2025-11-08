@@ -4,11 +4,11 @@ title: PCB
 
 ## Overview
 
-This PCB desgin shows what the board will look like once its fabricated.
+This PCB desgin shows what the board will look like once its fabricated. Please note that the mesurments are in Mils. 
 
 
 ![schematic](ScreenshotPCB.png){style width:"350" height:"300;"}
-**Figure 1:** Showing schematic.
+**Figure 1:** Showing Screen shot of PCB
 
 
 ## Resouces
