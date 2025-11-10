@@ -3,7 +3,7 @@ title: Component Selection
 ---
 
 
-**Op Amps**
+**H bridge** (was op amp)
 
 1. MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
 
@@ -49,7 +49,7 @@ title: Component Selection
 **Rationale:** It is the option I am most familiar with and I wouldn't have to wait to order it. It is more then capable for the task I need it for.
 
 
-**Potentiometer** BAD!!!! will update later (Look at motor selection).
+**Motor** 
 
 2. FIT0483
 
@@ -94,54 +94,6 @@ title: Component Selection
 
 **Rationale:** It was the first pick due to time constraints and having to fix this project. 
 
-
-
-
-
-**Potentiometer** BAD!!!! will update later (Look at motor selection).
-
-2. P120PK-Y25BR10K
-
-    ![](part2.1.png){style width:"100" height:"100;"}
-
-    * $1.42/each
-    * [link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P120PK-Y25BR10K/5957454)
-
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Through Hole, snap in mounting                               | very long shipping time |
-    | Similar to the part used in class             | Low resistance (10k Ohms)                                     |
-    
-
-2. P160KN2-0EC15B100K
-
-    ![](part2.2.png){style width:"100" height:"100;"}
-
-    * $1.66/each
-    * [Link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P160KN2-0EC15B100K/3587330)
-
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Already have it on hand                                            | Pins are horizontal     |
-    | 100,000 cycle life                                 | Surface mounting |
-                                                     |Very long shipping time|
-
-2. PCW1J-B24-BAB103L 
-
-    ![](part2.3.png){style width:"100" height:"100;"}
-
-    * $5.92/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
-
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Panel Mount                                         |  Most expensive part    |
-    | Low profile                              | Likely too high quality for the project |
-    | Clean design                                | 
-
-**Choice:** Option 2: P160KN2-0EC15B100K
-
-**Rationale:** It is the option I am most familiar with and I wouldn't have to wait for it to arrive. The pin difficulty can be manage through varius design choices and easily 3D printed parts. 
 
 
 
