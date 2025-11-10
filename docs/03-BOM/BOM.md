@@ -13,7 +13,7 @@ Here is my Bill of Materials (BOM) Most if not all my parts I already have on ha
 *Table ##:*
 
 ## Bill of Materials 
-![](bom-sb.png){style width: "2000"}
+![](image.png){style width: "2000"}
 **Figure 1:** Example Bill of Materials as a screenshot.
 
 The excel file [*here*](BOM-SB.xlsx). 
