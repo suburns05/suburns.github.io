@@ -1,16 +1,16 @@
 ---
-title: Component Selection
+title: Component Selection PENDING
 ---
 
 
-**H bridge** (was op amp)
+**H bridge**
 
-1. MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
+1. FAN8100N H-Bridge
 
     ![](part1.png){style width:"100" height:"100;"}
 
-    * $0.59/each
-    * [link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&gad_source=1&gad_campaignid=120565755&gbraid=0AAAAADrbLlgvmi-7nu49IK00wDfqUZ9nG&gclid=CjwKCAjwr8LHBhBKEiwAy47uUg2Khy4UAju_plOeBhHjGhTL9rCemC6lQ3zkZeHUy87t1d8vDi-Z9BoCKtUQAvD_BwE)
+    * $1.16/each
+    * [link to product](https://www.digikey.com/en/products/detail/fairchild-semiconductor/FAN8100N/11558200)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -18,12 +18,12 @@ title: Component Selection
     | Already have the part on hand             | takes up a significant amount of space                                        |
     | Familiar with the part |
 
-1. LT6004IMS8#TRPBF IC OPAMP GP 2 CIRCUIT 8MSOP
+1. A3909GLNTR-T
 
     ![](part2.png){style width:"100" height:"100;"}
 
-    * $4.94/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $1.24/each
+    * [Link to product](https://www.digikey.com/en/products/detail/allegro-microsystems/A3909GLNTR-T/3979655)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
@@ -31,66 +31,65 @@ title: Component Selection
     | Higher voltage rating                                 | Surface mounting |
     | |                                                 |Unfamiliar interface |
 
-1. LM324N IC OPAMP GP 4 CIRCUIT 14DIP
+1. ISL55110IVZ
 
     ![](part3.png){style width:"100" height:"100;"}
 
-    * $0.47/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $2.87/each
+    * [Link to product](https://www.digikey.com/en/products/detail/renesas-electronics-corporation/ISL55110IVZ/1650617)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Least expensive                                          |  Notably higher minimum opperation voltage    |
-    | Higher voltage rating                                 | Higher Output Current channel |
-    | Smaller voltage offset                                 | 
+    | half bridge                                         |  Higher expense    |
+    | Higher voltage rating                                 | surface mount |
+                                  |
 
-**Choice:** Option 1: MCP6004-I/P-ND IC OPAMP GP 4 CIRCUIT 14DIP
+**Choice:** Option 1: FAN8100N H-Bridge
 
-**Rationale:** It is the option I am most familiar with and I wouldn't have to wait to order it. It is more then capable for the task I need it for.
+**Rationale:** It is the option I am most familiar with and I wouldn't have to wait to order it. I already have the part and have designed my schamatic around it.
 
 
 **Motor** 
 
-2. FIT0483
+2. M1N10FB11G
 
     ![](part4.1.png){style width:"100" height:"100;"}
 
-    * $11.9/each
-    * [link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0483/7087160)
+    * $3.19/each
+    * [link to product](https://www.digikey.com/en/products/detail/nmb-technologies-corporation/M1N10FB11G/2417078)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Familar with motor type                               | very long shipping time |
-    | Have some on hand            | Low torque                                   |
+    | Have some on hand            | Heavy compared to the others                                 |
     
 
-2. PENDING......
+2. FIT0467
 
     ![](part2.2.png){style width:"100" height:"100;"}
 
-    * $1.66/each
-    * [Link to product](https://www.digikey.com/en/products/detail/tt-electronics-bi/P160KN2-0EC15B100K/3587330)
+    * $11.9/each
+    * [Link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0467/7087156)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Already have it on hand                                            | Pins are horizontal     |
-    | 100,000 cycle life                                 | Surface mounting |
-                                                     |Very long shipping time|
+    | familar with motor type                                            | high cost     |
+    | higher build quality                                  |Likely too high quality for the projec|
 
-2. PENDING...... 
+2. PPN7PA12C1
 
     ![](part2.3.png){style width:"100" height:"100;"}
 
-    * $5.92/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * $3.71/each
+    * [Link to product](https://www.digikey.com/en/products/detail/nmb-technologies-corporation/PPN7PA12C1/2417079)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Panel Mount                                         |  Most expensive part    |
-    | Low profile                              | Likely too high quality for the project |
-    | Clean design                                | 
+    |   Low profile                                        |  Most expensive part    |
+    |   Light weight                        | Weakest torque compared to selection |
+   
 
-**Choice:** Option 1: P160KN2-0EC15B100K
+**Choice:** Option 1: M1N10FB11G
 
 **Rationale:** It was the first pick due to time constraints and having to fix this project. 
 
