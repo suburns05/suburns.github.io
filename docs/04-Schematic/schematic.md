@@ -13,4 +13,4 @@ This schematic is designed to serve as the central hub for my team’s project. 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](design-sb.pdf), and the Zip folder of the project [*here*](egr304-subsystem schematic design-sb.zip).
+The schematic as a PDF download is available [*here*](egr304-subsystem schematic design-sb.pdf), and the Zip folder of the project [*here*](egr304-subsystem schematic design-sb.zip).
