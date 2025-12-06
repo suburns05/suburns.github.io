@@ -1,16 +1,12 @@
 ---
-title: PCB
+title: Microcontroller Code
 ---
 
 ## Overview
 
-This PCB desgin shows what the board will look like once its fabricated. Please note that the mesurments are in Mils. 
-
-
-![schematic](ScreenshotPCB.png){style width:"350" height:"300;"}
-**Figure 1:** Showing Screen shot of PCB
+This page serves as a location to show the latest state of my subsystems code. The code was combiled in MPLAB asn was programed on a Curiosity Nano board. 
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](PCB Printout 1-1.pdf), and the Gerber Zip folder of the project [*here*](Sam Burns 205 Gerber (2).zip).
+The Code Zip folder of the project [*here*](input-Team205--SB.zip).
