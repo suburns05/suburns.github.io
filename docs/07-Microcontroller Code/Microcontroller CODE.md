@@ -4,7 +4,7 @@ title: Microcontroller Code
 
 ## Overview
 
-This page serves as a location to show the latest state of my subsystems code. The code was combiled in MPLAB asn was programed on a Curiosity Nano board. 
+This page serves as a location to show the latest state of my subsystems code. The code was combiled in MPLAB asn was programed on a Curiosity Nano board. If one intends on rebuilding this project, a program called Putty is useful to the project as it gives status updates and sometimes can be interacted with via the terminal. While that software is not nessisary it is critical for debuging the project.
 
 
 ## Resouces
