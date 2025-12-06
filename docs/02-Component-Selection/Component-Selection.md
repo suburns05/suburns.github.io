@@ -1,5 +1,5 @@
 ---
-title: Component Selection PENDING
+title: Component Selection 
 ---
 
 
