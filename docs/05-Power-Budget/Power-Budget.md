@@ -3,11 +3,11 @@ title: Power Budget
 ---
 
 ## Overview
-This is a very rough draft of my power budget. I am sure it will get more ironed out as our project gets more finalized. I stuck to a wall mounted powersupply because that is what we have on hand. Idealy we would collect a battery pack but for this round I wanted to keep things simple. As you can see my circuit is very simple and has minimal parts that require limited amount of power.
+Final version of my Power Budget. Updated to our last minute desing changes, adding a motor to my board and implementing power to my teams boards. Although in our demo only on of my team member utalized the power due to the other needing to be pluged in via their computer to make quick changes to their code as we were tuning our code to work together. This budget allows for plenty of headroom for our project, realisticly there should be a backup power system but the current build fits the timeline just fine. 
 
 
 
-![Markdownfile1](PowerBudgetSB.png){style width:"350" height:"300;"}
+![Markdownfile1](image.png){style width:"350" height:"300;"}
 
 ## Conclusions
 
@@ -15,4 +15,4 @@ This is just a rough draft, I intend to finalize this as we get closer to closin
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](PowerBudgetSB.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetSB.xlsx).
+The power budget as a PDF download is available [*here*](Power Budget.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetSB.xlsx).

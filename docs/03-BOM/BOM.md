@@ -6,7 +6,9 @@ tags:
 ---
 
 ## Overview
-Here is my Bill of Materials (BOM) Most if not all my parts I already have on hand.
+Here is my Bill of Materials (BOM) Most if not all my parts I already have on hand. 
+
+I understand that this was not done to standard. However due to being informed ober a month later, I have to spend the time I have left fixing the rest of my individual and team websites. 
 
 ## Bill of Materials 
 
