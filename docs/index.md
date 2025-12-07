@@ -24,7 +24,7 @@ for<br>
 
     * I edited this page
     * Did my best to do all the sudjestions provided.
-    * Updated this website in acordenca to the Final Report instructions.
+    * Updated this website based on the Final Report instructions.
 
 
 ### My Contribution
