@@ -6,9 +6,9 @@ tags:
 ---
 
 ## Overview
-Here is my Bill of Materials (BOM) Most if not all my parts I already have on hand. 
+Here is my Bill of Materials (BOM) 
 
-I understand that this was not done to standard. However due to being informed ober a month later, I have to spend the time I have left fixing the rest of my individual and team websites. 
+I understand that this was not done to standard. However due to being informed over a month after the initial grading, I have chosen to spend the remaining time of this semsert to update the rest of my website along with my teams website.
 
 ## Bill of Materials 
 
